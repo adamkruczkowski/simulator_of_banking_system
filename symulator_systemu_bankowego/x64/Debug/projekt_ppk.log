@@ -1,0 +1,7 @@
+﻿  funkcje.cpp
+C:\Users\Adam\Desktop\ppk\2sem\projekt_ppk\projekt_ppk\funkcje.cpp(62,39): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Adam\Desktop\ppk\2sem\projekt_ppk\projekt_ppk\funkcje.cpp(320,55): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Adam\Desktop\ppk\2sem\projekt_ppk\projekt_ppk\funkcje.cpp(576,61): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  projekt_ppk.cpp
+  Generowanie kodu...
+  projekt_ppk.vcxproj -> C:\Users\Adam\Desktop\ppk\2sem\projekt_ppk\x64\Debug\projekt_ppk.exe
